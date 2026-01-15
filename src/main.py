@@ -4,7 +4,7 @@ from gmail_service import get_gmail_service, fetch_unread_emails, mark_as_read
 from email_parser import extract_email_data
 from sheets_service import get_sheets_service, append_row
 
-SPREADSHEET_ID = "1phj35bFlqZ4eJlBZYAa0eFyPXHJzU1ideXpXDvqIu3o"
+SPREADSHEET_ID = "1PJfMh9QhVdbZGNvfySaey38E8BDWR-12oGkLg6_pbt8"
 
 def main():
     setup_logger()
