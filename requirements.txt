@@ -1,1 +1,5 @@
-sheet id = 1phj35bFlqZ4eJlBZYAa0eFyPXHJzU1ideXpXDvqIu3o
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+beautifulsoup4
