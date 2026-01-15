@@ -1,3 +1,10 @@
-# i dont want to add anything from creddentials folder
-credentials/
-venv/ 
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# OAuth secrets
+credentials/credentials.json
+credentials/token.pickle
